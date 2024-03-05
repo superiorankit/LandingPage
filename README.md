@@ -19,4 +19,9 @@ To enhance the aesthetics of the landing page, I have incorporated an original p
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/superiorankit/LandingPage.git
+
+   ```bash
+2. cd your-repository
+
+- Open index.html file
