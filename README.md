@@ -20,6 +20,6 @@ To enhance the aesthetics of the landing page, I have incorporated an original p
 
    ```bash
    git clone https://github.com/superiorankit/LandingPage.git
-   cd your-repository
+   cd LandingPage
 
 - Open index.html file
