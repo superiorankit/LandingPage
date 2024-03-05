@@ -4,7 +4,7 @@ Welcome to the landing page of my project! This project showcases a well-designe
 
 ## Features
 
-- Navbar with Hover Effects to Navbar Items, Search logo and Submit button
+- Hover Effects on Navbar Items, Search logo and Submit button
 
 
 ## Original Photo
